@@ -9,3 +9,5 @@ S
 #tests/provider-verification.test.ts,8/6/860d95ca41eac302534a801b7c132a241e18e336
 T
 $contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
+T
+$contracts/network-participation.clar,d/0/d0c464874aee098e260862620325997e0d78aca4

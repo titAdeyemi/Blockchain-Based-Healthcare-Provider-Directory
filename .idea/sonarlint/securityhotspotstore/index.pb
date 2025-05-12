@@ -11,3 +11,5 @@ T
 $contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
 T
 $contracts/network-participation.clar,d/0/d0c464874aee098e260862620325997e0d78aca4
+P
+ contracts/practice-location.clar,0/f/0fc8c07d964ce409132c44d821be57722a95c61f

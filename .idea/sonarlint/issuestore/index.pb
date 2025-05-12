@@ -13,3 +13,7 @@ T
 $contracts/network-participation.clar,d/0/d0c464874aee098e260862620325997e0d78aca4
 P
  contracts/practice-location.clar,0/f/0fc8c07d964ce409132c44d821be57722a95c61f
+V
+&contracts/specialty-certification.clar,f/a/fa27043b9804064a972ba773fddd1051b47da7b4
+U
+%tests/specialty-certification.test.ts,3/d/3da71b1bc4c2a0671f8999bf979b0f4892bc47de
